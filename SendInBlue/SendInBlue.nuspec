@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.2.0</version>
+    <title>$title$</title>
+    <authors>Adam Schaible</authors>
+    <owners>Adam Schaible</owners>
+    <projectUrl>https://github.com/aschaible/SendInBlue</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Unofficial SendInBlue .NET SDK</description>
+    <releaseNotes>Initial release - basic functionality</releaseNotes>
+    <license type="expression">MIT</license>
+    <copyright>Copyright 2019</copyright>
+    <tags>SendInBlue SDK API REST</tags>
+  </metadata>
+</package>
